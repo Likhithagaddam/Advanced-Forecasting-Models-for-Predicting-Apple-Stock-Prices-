@@ -1,4 +1,4 @@
-# Advanced-Forecasting-Models-for-Predicting-Apple-Stock-Prices
+# Predictive Analytics for Apple Stock Prices Using Advanced Time-Series Techniques
 
 Kaggle Link: https://www.kaggle.com/code/saikrishnapaila/apple-stock-prediction-using-rnn
 
