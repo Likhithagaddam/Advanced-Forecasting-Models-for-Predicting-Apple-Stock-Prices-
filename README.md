@@ -73,12 +73,6 @@ ARIMA & SARIMA:
 Classical statistical models for trend and seasonality adjustments.
 
 
-# Files:
-
-Team_4_Apple_Stock_Predication.ipynb: Jupyter Notebook containing the code, analysis, and models for the project.
-
-Team_4.pptx: PowerPoint presentation summarizing the project findings and methodologies.
-
 
 # How to Run:
 
